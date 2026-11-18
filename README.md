@@ -1,13 +1,13 @@
 # Lab-Exercise---1---Caesar-Cipher
 
 
-#AIM
+## AIM
 
 To encrypt and decrypt the given message by using Ceaser Cipher encryption algorithm.
 
 
 
-#ALGORITHM
+## ALGORITHM
 
 1 Design of Caeser Cipher algorithmn.
 
@@ -27,7 +27,7 @@ mod26.
 7 Decryption is performed similarly, Dn (x)=(x - n) mod26.
 
 
-#PROGRAM
+## PROGRAM
 
 ```
 
@@ -59,10 +59,10 @@ print("Result:", caesar_cipher(message, shift))
 
 ```
 
-#OUTPUT
+## OUTPUT
 
 <img width="1920" height="1080" alt="Screenshot 2026-10-17 142623" src="https://github.com/user-attachments/assets/0853a0db-640c-449d-8530-db211c52aa44" />
 
 
-#RESULT
+## RESULT
 The program is executed successfully.
